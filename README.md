@@ -1,4 +1,6 @@
-# NLP_Sarcasm_Detection
+### NLP_Sarcasm_Detection
+
+##### Dataset acknowledgment - https://github.com/rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection
 
 DeepLearning-NLP-SarcasmDetection
 
